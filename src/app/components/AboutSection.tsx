@@ -21,10 +21,22 @@ const AboutSection = () => {
             <Link href="https://yourh2r.com/" className="">
               human resource agency
             </Link>
+          </span>
+          {", "} a{" "}
+          <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
+            <Link href="https://cobrie.ca/" className="">
+              restaurant
+            </Link>
+          </span>
+          {", "} a{" "}
+          <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
+            <Link href="https://limitlessmartialarts.ca/" className="">
+              martial arts school
+            </Link>
           </span>{" "}
-          across Southern Ontario, enhancing the UI designs of their
-          applications for better user experience, resulting in 35% increase in
-          customer base and user retention.
+          and many more across Southern Ontario, enhancing the UI designs of
+          their applications for better user experience, resulting in 35%
+          increase in customer base and user retention.
         </p>
         <p>
           Fast forward to today, My main focus has shifted towards building
@@ -35,7 +47,9 @@ const AboutSection = () => {
               TELUS
             </Link>
           </span>
-          {"."}
+          {". "}I specialize in optimizing user interfaces, backend systems and
+          developing responsive applications in adherence to WCAG acessbility
+          guidelines and industry best practices.
         </p>
       </div>
     </section>
