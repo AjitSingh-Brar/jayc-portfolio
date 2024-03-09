@@ -3,9 +3,8 @@ import React, { useState, useTransition } from "react";
 import NavButton from "./NavButton";
 import SocialMedia from "./SocialMedia";
 
-
 const HeroPage = () => {
-  const [link, setLink] = useState("about");
+  const [link, setLink] = useState("#about");
   const [isPending, startTransition] = useTransition();
 
   const handleTabChange = (id: any) => {
@@ -29,20 +28,20 @@ const HeroPage = () => {
         <nav className="nav hidden lg:block" aria-label="In-page links">
           <ul className="mt-16 w-24 font-['Inter']">
             <NavButton
-              active={link === "about"}
-              selectLink={() => handleTabChange("about")}
+              active={link === "#about"}
+              selectLink={() => handleTabChange("#about")}
               link={"#about"}
               children={"ABOUT"}
             />
             <NavButton
-              active={link === "experience"}
-              selectLink={() => handleTabChange("experience")}
+              active={link === "#experience"}
+              selectLink={() => handleTabChange("#experience")}
               link={"#experience"}
               children={"EXPERIENCE"}
             />
             <NavButton
-              active={link === "projects"}
-              selectLink={() => handleTabChange("projects")}
+              active={link === "#projects"}
+              selectLink={() => handleTabChange("#projects")}
               link={"#projects"}
               children={"PROJECTS"}
             />

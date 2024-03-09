@@ -13,6 +13,7 @@ const SocialMedia = () => {
           className="text-[#94A3B8] hover:text-slate-200 block duration-200 ease-in-out"
           target="_blank"
           aria-label="GitHub (opens in a new tab)"
+          rel="noreferrer noopener"
         >
           <GitHubIcon className="text-3xl"/>
         </Link>
@@ -23,6 +24,7 @@ const SocialMedia = () => {
           className="text-[#94A3B8] hover:text-slate-200 block duration-200 ease-in-out"
           target="_blank"
           aria-label="LinkedIn (opens in a new tab)"
+          rel="noreferrer noopener"
         >
           <LinkedInIcon className="text-3xl" />
         </Link>
@@ -32,7 +34,8 @@ const SocialMedia = () => {
           href="mailto:ajit.programmer@outlook.com"
           className="text-[#94A3B8] hover:text-slate-200 block duration-200 ease-in-out"
           target="_blank"
-          aria-label="LinkedIn (opens in a new tab)"
+          aria-label="Email"
+          rel="noreferrer noopener"
         >
           <EmailIcon className="text-3xl" />
         </Link>

@@ -12,7 +12,7 @@ const NavButton = ({ active, selectLink, link, children }: any) => {
   return (
     <li>
       <a
-        href={`${link}`}
+        href={link}
         onClick={selectLink}
         className={`flex items-center pt-3 hover:text-[#E2E8F0] ${buttonClasses}`}
       >

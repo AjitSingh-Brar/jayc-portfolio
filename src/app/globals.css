@@ -10,4 +10,10 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  @layer base {
+    html {
+      @apply scroll-smooth;
+    }
+  }
 }
