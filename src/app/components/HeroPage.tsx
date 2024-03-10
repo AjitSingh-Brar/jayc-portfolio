@@ -9,10 +9,10 @@ const HeroPage = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = document.querySelectorAll('section');
+      const sections = document.querySelectorAll("section");
       let scrollPosition = window.scrollY + 200; // Adjust based on your layout and design
 
-      sections.forEach(section => {
+      sections.forEach((section) => {
         const top = section.offsetTop;
         const height = section.offsetHeight;
 
@@ -22,9 +22,9 @@ const HeroPage = () => {
       });
     };
 
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener("scroll", handleScroll);
     };
   }, []);
 
@@ -46,28 +46,34 @@ const HeroPage = () => {
           I build high-quality web applications that meet and exceed client
           expectations.
         </p>
-          <nav className="nav hidden lg:block" aria-label="In-page links">
-            <ul className="mt-16 w-24 font-['Inter']">
-              <NavButton
-                active={link === "#about"}
-                selectLink={() => handleTabChange("#about")}
-                link={"#about"}
-                children={"ABOUT"}
-              />
-              <NavButton
-                active={link === "#experience"}
-                selectLink={() => handleTabChange("#experience")}
-                link={"#experience"}
-                children={"EXPERIENCE"}
-              />
-              <NavButton
-                active={link === "#projects"}
-                selectLink={() => handleTabChange("#projects")}
-                link={"#projects"}
-                children={"PROJECTS"}
-              />
-            </ul>
-          </nav>
+        <nav className="nav hidden lg:block" aria-label="In-page links">
+          <ul className="mt-16 w-24 font-['Inter']">
+            <NavButton
+              active={link === "#about"}
+              selectLink={() => handleTabChange("#about")}
+              link={"#about"}
+            >
+              {" "}
+              ABOUT{" "}
+            </NavButton>
+            <NavButton
+              active={link === "#experience"}
+              selectLink={() => handleTabChange("#experience")}
+              link={"#experience"}
+            >
+              {" "}
+              EXPERIENCE{" "}
+            </NavButton>
+            <NavButton
+              active={link === "#projects"}
+              selectLink={() => handleTabChange("#projects")}
+              link={"#projects"}
+            >
+              {" "}
+              PROJECTS{" "}
+            </NavButton>
+          </ul>
+        </nav>
       </div>
       <SocialMedia />
     </header>
