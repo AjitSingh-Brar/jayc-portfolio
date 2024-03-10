@@ -6,7 +6,7 @@ import { experienceData } from "../data/experienceData";
 const ExperienceSection = () => {
   return (
     <section
-      id={"experience"}
+      id="experience"
       className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24"
       aria-label="Work Experience"
     >
@@ -34,6 +34,7 @@ const ExperienceSection = () => {
                       <Link
                         href={experience.companyLink}
                         className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300  group/link text-base"
+                        target="_blank"
                         rel="noreferrer noopener"
                       >
                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
@@ -71,6 +72,7 @@ const ExperienceSection = () => {
           <Link
             href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ac109bc3-951b-4ec2-a855-fcd5387aea7a"
             className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 font-semibold text-slate-200 group/link text-base duration-200 ease-in-out"
+            target="_blank"
             rel="noreferrer noopener"
             aria-label="Check Full CV (Opens in new Tab)"
           >

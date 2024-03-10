@@ -14,9 +14,9 @@ const NavButton = ({ active, selectLink, link, children }: any) => {
       <a
         href={link}
         onClick={selectLink}
-        className={`flex items-center pt-3 hover:text-[#E2E8F0] ${buttonClasses}`}
+        className={`text-xs flex items-center pt-3 hover:text-[#E2E8F0] ${buttonClasses}`}
       >
-        <span className="text-xs font-bold tracking-widest">{children}</span>
+        <span className="font-bold tracking-widest">{children}</span>
       </a>
       <motion.div
         animate={active ? "active" : "default"}

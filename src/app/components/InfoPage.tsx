@@ -2,6 +2,7 @@ import React from "react";
 import AboutSection from "./AboutSection";
 import ExperienceSection from "./ExperienceSection";
 import ProjectSection from "./ProjectSection";
+import FooterSection from "./FooterSection";
 
 const InfoPage = () => {
   return (
@@ -9,6 +10,7 @@ const InfoPage = () => {
       <AboutSection />
       <ExperienceSection />
       <ProjectSection />
+      <FooterSection />
     </div>
   );
 };

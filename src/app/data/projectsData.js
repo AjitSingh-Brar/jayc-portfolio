@@ -48,7 +48,7 @@ export const projectsData = [
   {
     id: "h2r",
     name: "H2R Business Solutions",
-    picture: "/images/telus.png",
+    picture: "/images/hr.png",
     link: "https://yourh2r.com/",
     description:
       "Created website for the human resource agency to support clients with services ranging from dedicated outsourced HR support to more complex consultative services including compensation, workforce planning, etc",
