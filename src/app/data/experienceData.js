@@ -13,7 +13,7 @@ export const experienceData = [
       "React",
       "Redux",
       "Next.js",
-      "Reuby",
+      "Ruby",
       "GCP",
       "Java",
       "GraphQL",

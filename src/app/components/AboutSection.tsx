@@ -1,5 +1,5 @@
-import Link from "next/link";
 import React from "react";
+import Link from "next/link";
 
 const AboutSection = () => {
   return (
@@ -18,19 +18,31 @@ const AboutSection = () => {
           world-class interaction designs for web applications. The role at
           Communitech allowed me to support over 50 local businesses such as a{" "}
           <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
-            <Link href="https://yourh2r.com/" className="">
+            <Link
+              href="https://yourh2r.com/"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
               human resource agency
             </Link>
           </span>
           {", "} a{" "}
           <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
-            <Link href="https://cobrie.ca/" className="">
+            <Link
+              href="https://cobrie.ca/"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
               restaurant
             </Link>
           </span>
           {", "} a{" "}
           <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
-            <Link href="https://limitlessmartialarts.ca/" className="">
+            <Link
+              href="https://limitlessmartialarts.ca/"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
               martial arts school
             </Link>
           </span>{" "}
