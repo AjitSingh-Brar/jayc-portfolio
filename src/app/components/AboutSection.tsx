@@ -17,7 +17,7 @@ const AboutSection = () => {
           Back in 2020, I began my career as a UX/UI Designer, designing
           world-class interaction designs for web applications. The role at
           Communitech allowed me to support over 50 local businesses such as a{" "}
-          <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
+          <span className="text-[#E2E8F0] hover:text-sky-400 duration-200 ease-in-out">
             <Link
               href="https://yourh2r.com/"
               target="_blank"
@@ -27,7 +27,7 @@ const AboutSection = () => {
             </Link>
           </span>
           {", "} a{" "}
-          <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
+          <span className="text-[#E2E8F0] hover:text-sky-400 duration-200 ease-in-out">
             <Link
               href="https://cobrie.ca/"
               target="_blank"
@@ -37,7 +37,7 @@ const AboutSection = () => {
             </Link>
           </span>
           {", "} a{" "}
-          <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
+          <span className="text-[#E2E8F0] hover:text-sky-400 duration-200 ease-in-out">
             <Link
               href="https://limitlessmartialarts.ca/"
               target="_blank"
@@ -54,7 +54,7 @@ const AboutSection = () => {
           Fast forward to today, My main focus has shifted towards building
           products, performing major features development and leading projects
           at{" "}
-          <span className="text-[#E2E8F0] hover:text-cyan-400 duration-200 ease-in-out">
+          <span className="text-[#E2E8F0] hover:text-sky-400 duration-200 ease-in-out">
             <Link href="https://www.telus.com/en" className="">
               TELUS
             </Link>
