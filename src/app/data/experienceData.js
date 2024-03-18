@@ -65,4 +65,23 @@ export const experienceData = [
       "Wordpress",
     ],
   },
+  {
+    id: "sedulity-4",
+    role: "Junior Software Developer",
+    company: "Sedulity Solutions & Technologies",
+    companyLink: "http://www.sedulitygroups.com/",
+    timeline: "JAN 2018 - DEC 2018",
+    responsibility:
+      "Collaborated with stakeholders, and product managers to define business requirements. Implemented innovative features and architecture interfaces during project implementation.",
+    technologies: [
+      "Javascript",
+      "ES6",
+      "Java",
+      "C++",
+      "HTML",
+      "CSS",
+      "NodeJS",
+      "Express"
+    ],
+  },
 ];
