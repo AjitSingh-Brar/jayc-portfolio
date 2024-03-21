@@ -14,9 +14,11 @@ const AboutSection = () => {
       </div>
       <div className="text-[#94A3B8]">
         <p className="mb-4">
-          Back in 2020, I began my career as a UX/UI Designer, designing
-          world-class interaction designs for web applications. The role at
-          Communitech allowed me to support over 50 local businesses such as a{" "}
+          Back in 2018, I began my career as a Junior Software Developer,
+          developing high quality software solutions, and innovative design
+          systems. Later as a UX/UI Designer, I designed world-class interaction
+          designs for web applications. The role at Communitech allowed me to
+          support over 50 local businesses such as a{" "}
           <span className="text-[#E2E8F0] hover:text-sky-400 duration-200 ease-in-out">
             <Link
               href="https://yourh2r.com/"
