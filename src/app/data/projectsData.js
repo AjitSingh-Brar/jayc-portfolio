@@ -2,7 +2,7 @@ export const projectsData = [
   {
     id: "telus-b",
     name: "TELUS Business Connect App",
-    picture: "/images/telus.jpg",
+    picture: "/images/telus.png",
     link: "https://www.telus.com/en/on/business/",
     description:
       "A professional call handling app only for your smartphones and tablets. Spends less time managing calls and more time on the business.",
@@ -22,7 +22,7 @@ export const projectsData = [
   {
     id: "lux",
     name: "Luxsonic Technologies",
-    picture: "/images/lux.png",
+    picture: "/images/lux.jpg",
     link: "https://luxsonic.ca/",
     description:
       "Created website for a healthcare organization to support clients with services ranging  with immersive tools that enhance radiology, medical training, and healthcare delivery.",
