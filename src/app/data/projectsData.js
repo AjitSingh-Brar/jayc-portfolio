@@ -20,6 +20,15 @@ export const projectsData = [
     ],
   },
   {
+    id: "lux",
+    name: "Luxsonic Technologies",
+    picture: "/images/lux.png",
+    link: "https://luxsonic.ca/",
+    description:
+      "Created website for a healthcare organization to support clients with services ranging  with immersive tools that enhance radiology, medical training, and healthcare delivery.",
+    technologies: ["Typescript", "React", "Redux", "AWS", "Node.js", "Express"],
+  },
+  {
     id: "pgc",
     name: "Pivotal Genral Contracting",
     picture: "/images/pivotal.png",
