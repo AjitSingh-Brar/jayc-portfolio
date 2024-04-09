@@ -2,7 +2,7 @@ export const projectsData = [
   {
     id: "telus-b",
     name: "TELUS Business Connect App",
-    picture: "/images/telus.png",
+    picture: "/images/telus.jpg",
     link: "https://www.telus.com/en/on/business/",
     description:
       "A professional call handling app only for your smartphones and tablets. Spends less time managing calls and more time on the business.",
