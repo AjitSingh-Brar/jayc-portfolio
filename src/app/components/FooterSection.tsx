@@ -8,7 +8,7 @@ const FooterSection = () => {
         <span>
           <CopyrightIcon />
         </span>{" "}
-        2024 | Ajit Brar
+        2024 | Jerry Brar
       </p>
     </footer>
   );

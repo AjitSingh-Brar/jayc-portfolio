@@ -37,7 +37,7 @@ const HeroPage = () => {
     <header className="lg:sticky lg:top-0 lg:flex lg:h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
       <div>
         <h1 className="text-4xl sm:text-5xl text-slate-200 font-bold tracking-tight">
-          Ajit Singh
+          Jerry Brar
         </h1>
         <h2 className="text-lg sm:text-xl mt-3 font-medium tracking-tight text-slate-200">
           Software Developer
