@@ -17,7 +17,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <GlowCapture>
+          <Glow color="blue">
+            <div className="w-full text-white glow:text-glow/70 glow:bg-sky-300 glow:bg-glow/45">
+              {children}
+            </div>
+          </Glow>
+        </GlowCapture>
+      </body>
     </html>
   );
 }
