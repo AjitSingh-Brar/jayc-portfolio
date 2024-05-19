@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ajit Brar",
+  title: "Ajit Singh",
   description: "Portfolio",
 };
 
@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <GlowCapture>
           <Glow color="blue">
-            <div className="w-full text-white lg:glow:text-glow/7  0 lg:glow:bg-blue-900">
+            <div className="w-full text-white lg:glow:text-glow/70 lg:glow:bg-blue-950">
               {children}
             </div>
           </Glow>

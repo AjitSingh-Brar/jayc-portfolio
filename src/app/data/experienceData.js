@@ -67,7 +67,7 @@ export const experienceData = [
   },
   {
     id: "sedulity-4",
-    role: "Junior Software Developer",
+    role: "Junior Developer",
     company: "Sedulity Solutions & Technologies",
     companyLink: "http://www.sedulitygroups.com/",
     timeline: "JAN 2018 - DEC 2018",
