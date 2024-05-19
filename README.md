@@ -17,25 +17,19 @@
 
 ## 🛠 Installation & Set Up
 
-1. Install the Gatsby CLI
-
-   ```sh
-   npm install -g gatsby-cli 
-   ```
-
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+1. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
    nvm install
    ```
 
-3. Install dependencies
+2. Install dependencies
 
    ```sh
    npm i
    ```
 
-4. Start the development server
+3. Start the development server
 
    ```sh
    npm run dev
