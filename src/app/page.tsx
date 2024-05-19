@@ -1,6 +1,5 @@
 import HeroPage from "./components/HeroPage";
 import InfoPage from "./components/InfoPage";
-import { Glow, GlowCapture } from "@codaworks/react-glow";
 
 export default function Home() {
   return (

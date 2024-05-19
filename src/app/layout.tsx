@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <GlowCapture>
           <Glow color="blue">
-            <div className="w-full text-white glow:text-glow/70 glow:bg-sky-300 glow:bg-glow/45">
+            <div className="w-full text-white lg:glow:text-glow/70 lg:glow:bg-sky-300 lg:glow:bg-glow/45">
               {children}
             </div>
           </Glow>
