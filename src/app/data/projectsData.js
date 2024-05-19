@@ -1,11 +1,11 @@
 export const projectsData = [
   {
     id: "telus-b",
-    name: "TELUS Business Connect App",
+    name: "TELUS Business Connect - Self Serve Billing",
     picture: "/images/telus.png",
     link: "https://www.telus.com/en/on/business/",
     description:
-      "A professional call handling app only for your smartphones and tablets. Spends less time managing calls and more time on the business.",
+      "A professional call handling app only for your smartphones and tablets. Spends less time managing calls, more time on the business, billing accounts, invoices, payments, and reporting.",
     technologies: [
       "Javascript",
       "Typescript",
