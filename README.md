@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://vercel.com/ajitsinghbrars-projects/ajit-brar-portfolio/deployments" target="_blank">
-    <img src="https://cdn-icons-png.freepik.com/256/14025/14025690.png?semt=ais_hybrid" alt="Success Status" />
+    <img src="https://cdn-icons-png.flaticon.com/128/6815/6815090.png" alt="Success Status" />
   </a>
 </p>
 
