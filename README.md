@@ -9,11 +9,11 @@
 </p>
 <p align="center">
   <a href="https://vercel.com/ajitsinghbrars-projects/ajit-brar-portfolio/deployments" target="_blank">
-    <img src="https://cdn1.iconfinder.com/data/icons/basic-ui-icon-rounded-colored/512/icon-41-512.png" alt="Success Status" />
+    <img src="https://cdn-icons-png.freepik.com/256/14025/14025690.png?semt=ais_hybrid" alt="Success Status" />
   </a>
 </p>
 
-![demo](https://github.com/AjitSingh-Brar/jayc-portfolio/blob/main/public/images/demo.png)
+![demo](https://github.com/AjitSingh-Brar/jayc-portfolio/blob/main/public/images/demo.jpg)
 
 ## 🛠 Installation & Set Up
 
