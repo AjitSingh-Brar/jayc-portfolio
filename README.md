@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](https://github.com/AjitSingh-Brar/jayc-portfolio/blob/main/public/images/demo.jpg)
+![demo](https://github.com/AjitSingh-Brar/jayc-portfolio/blob/main/public/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
