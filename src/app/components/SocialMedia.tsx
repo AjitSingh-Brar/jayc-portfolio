@@ -31,7 +31,7 @@ const SocialMedia = () => {
       </li>
       <li className="mr-5 text-lg shrink-0">
         <Link
-          href="mailto:ajit.programmer@outlook.com"
+          href="mailto:jerry.brar@outlook.com"
           className="text-[#94A3B8] hover:text-slate-200 block duration-200 ease-in-out"
           target="_blank"
           aria-label="Email"
