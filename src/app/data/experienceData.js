@@ -16,7 +16,7 @@ export const experienceData = [
       "Angular",
       "Node.js",
       "Express",
-      "Ruby",
+      "GrapQL",
       "GCP",
       "Java",
       "MongoDB",
@@ -31,9 +31,10 @@ export const experienceData = [
     responsibility:
       "Develop, test and deliver high quality software solutions, design systems, mobile apps, and seamless user experience for diverse list of projects for clients such as University of Saskatchewan, Wake Forest Uiversity School of Medicine, Saskatchewan Polytechnic, Canadian Space Agency and more. Debug technical issues, including production down scenarios, by analyzing logs and statistics to determine root issues. ",
     technologies: [
-      "Javascript",
+      "JavaScript",
       "React",
       "Redux",
+      "Angular",
       "AWS",
       "C#",
       "HTML",
@@ -52,7 +53,7 @@ export const experienceData = [
     responsibility:
       "Collaborated with business analyst, developers, and marketing specialists, to create new and maintain brands, design systems, and styled interactive web apps for businesses in South Ontario.",
     technologies: [
-      "Javascript",
+      "JavaScript",
       "Typescript",
       "React",
       "Figma",
@@ -67,19 +68,21 @@ export const experienceData = [
   },
   {
     id: "sedulity-4",
-    role: "Junior Developer",
+    role: "Software Developer",
     company: "Sedulity Solutions & Technologies",
     companyLink: "http://www.sedulitygroups.com/",
-    timeline: "JAN 2018 - DEC 2018",
+    timeline: "APR 2019 - JUL 2020",
     responsibility:
       "Collaborated with stakeholders, and product managers to define business requirements. Implemented innovative features and architecture interfaces during project implementation.",
     technologies: [
+      "Angular",
+      "Material UI",
+      "SCSS",
       "Javascript",
       "ES6",
       "Java",
       "C++",
       "HTML",
-      "CSS",
       "NodeJS",
       "Express"
     ],
