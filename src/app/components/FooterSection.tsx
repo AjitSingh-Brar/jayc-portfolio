@@ -14,7 +14,7 @@ const FooterSection = () => {
         <span>
           <CopyrightIcon />
         </span>{" "}
-        2024 | Ajit Singh
+        2024 | Jerry Brar
       </p>
       <button className="animate-bounce p-3 border-[2px] border-slate-500 rounded-full cursor-pointer" onClick={handleScrollToTop}>
           <ArrowUpwardIcon className="text-2xl" />
