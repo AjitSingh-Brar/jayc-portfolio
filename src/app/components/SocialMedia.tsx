@@ -20,7 +20,7 @@ const SocialMedia = () => {
       </li>
       <li className="mr-5 text-lg shrink-0">
         <Link
-          href="https://www.linkedin.com/in/ajit--brar/"
+          href="https://www.linkedin.com/in/jerry-brar/"
           className="text-[#94A3B8] hover:text-slate-200 block duration-200 ease-in-out"
           target="_blank"
           aria-label="LinkedIn (opens in a new tab)"
