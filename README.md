@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/AjitSingh-Brar/jayc-portfolio/blob/main/src/app/icon.png" width="100" />
 </div>
 <h1 align="center">
-  ajit-brar-portfolio.vercel.app
+  jerry-brar-portfolio.vercel.app
 </h1>
 <p align="center">
   The <a href="https://ajit-brar-portfolio.vercel.app/" target="_blank">ajit-brar-portfolio.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
