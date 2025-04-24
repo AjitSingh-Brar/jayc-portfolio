@@ -5,7 +5,7 @@
   jerry-brar-portfolio.vercel.app
 </h1>
 <p align="center">
-  The <a href="https://ajit-brar-portfolio.vercel.app/" target="_blank">ajit-brar-portfolio.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The <a href="https://jerry-brar-portfolio.vercel.app/" target="_blank">jerry-brar-portfolio.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 <p align="center">
   <a href="https://vercel.com/ajitsinghbrars-projects/ajit-brar-portfolio/deployments" target="_blank">
