@@ -62,7 +62,7 @@ const AboutSection = () => {
             </Link>
           </span>
           {". "}I specialize in optimizing user interfaces, backend systems and
-          developing responsive applications in adherence to WCAG acessbility
+          developing responsive applications in adherence to WCAG accessbility
           guidelines and industry best practices.
         </p>
       </div>

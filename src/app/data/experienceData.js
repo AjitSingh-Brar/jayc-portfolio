@@ -6,7 +6,7 @@ export const experienceData = [
     companyLink: "https://www.telus.com/en",
     timeline: "APR 2022 - Present",
     responsibility:
-      " Handled multiple ongoing projects with new feature development, and developed repsonsive web applications. Collaborated closely with cross-functional teams, including product managers, designers, and engineers, to implement, ensure coding standards, and development best practices of DevOps.",
+      " Handled multiple ongoing projects with new feature development, and developed responsive web applications. Collaborated closely with cross-functional teams, including product managers, designers, and engineers, to implement, ensure coding standards, and development best practices of DevOps.",
     technologies: [
       "Javascript",
       "Typescript",
@@ -16,7 +16,7 @@ export const experienceData = [
       "Angular",
       "Node.js",
       "Express",
-      "GrapQL",
+      "GraphQL",
       "GCP",
       "Java",
       "MongoDB",
@@ -29,7 +29,7 @@ export const experienceData = [
     companyLink: "https://luxsonic.ca/",
     timeline: "AUG 2021 - MAR 2022",
     responsibility:
-      "Develop, test and deliver high quality software solutions, design systems, mobile apps, and seamless user experience for diverse list of projects for clients such as University of Saskatchewan, Wake Forest Uiversity School of Medicine, Saskatchewan Polytechnic, Canadian Space Agency and more. Debug technical issues, including production down scenarios, by analyzing logs and statistics to determine root issues. ",
+      "Develop, test and deliver high quality software solutions, design systems, mobile apps, and seamless user experience for diverse list of projects for clients such as University of Saskatchewan, Wake Forest University School of Medicine, Saskatchewan Polytechnic, Canadian Space Agency and more. Debug technical issues, including production down scenarios, by analyzing logs and statistics to determine root issues. ",
     technologies: [
       "JavaScript",
       "React",

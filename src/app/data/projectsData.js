@@ -30,11 +30,11 @@ export const projectsData = [
   },
   {
     id: "pgc",
-    name: "Pivotal Genral Contracting",
+    name: "Pivotal General Contracting",
     picture: "/images/pivotal.png",
     link: "https://pivotalgc.ca/",
     description:
-      "Developed a web app for a Trusted Business Partner who provides exceptional General Contracting Services. The comprehensive range of services includes: whole home renovation, Home Additons, etc.",
+      "Developed a web app for a Trusted Business Partner who provides exceptional General Contracting Services. The comprehensive range of services includes: whole home renovation, Home Additions, etc.",
     technologies: ["Javascript", "Shopify", "HTML", "SCSS", "GCP"],
   },
   {
