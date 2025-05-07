@@ -24,7 +24,7 @@ export default function RootLayout({
       <body className={roboto.className}>
         <GlowCapture>
           <Glow color="blue">
-            <div className="w-full text-white lg:glow:text-glow/70 lg:glow:bg-blue-950">
+            <div className="w-full text-white lg:glow:text-glow/70 lg:glow:bg-blue-950 tracking-normal">
               {children}
             </div>
           </Glow>
