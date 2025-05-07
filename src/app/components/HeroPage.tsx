@@ -47,7 +47,7 @@ const HeroPage = () => {
           expectations.
         </p>
         <nav className="nav hidden lg:block" aria-label="In-page links">
-          <ul className="mt-16 w-24 font-['Inter']">
+          <ul className="mt-16 w-24 font-[Open_Sans]">
             <NavButton
               active={link === "#about"}
               selectLink={() => handleTabChange("#about")}

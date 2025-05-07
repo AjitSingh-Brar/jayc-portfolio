@@ -1,9 +1,13 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Roboto } from "next/font/google";
 import { Glow, GlowCapture } from "@codaworks/react-glow";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+// const inter = Inter({ subsets: ["latin"] });
+const roboto = Roboto({
+  weight: '400',
+  subsets: ['latin'],
+})
 
 export const metadata: Metadata = {
   title: "Jerry Brar",
@@ -17,7 +21,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={roboto.className}>
         <GlowCapture>
           <Glow color="blue">
             <div className="w-full text-white lg:glow:text-glow/70 lg:glow:bg-blue-950">
