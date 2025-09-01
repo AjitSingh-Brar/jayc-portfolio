@@ -6,7 +6,7 @@ export const experienceData = [
     companyLink: "https://www.telus.com/en",
     timeline: "APR 2022 - Present",
     responsibility:
-      " Handled multiple ongoing projects with new feature development, and developed responsive web applications. Collaborated closely with cross-functional teams, including product managers, designers, and engineers, to implement, ensure coding standards, and development best practices of DevOps.",
+      "Handled multiple ongoing projects with new feature development, and developed responsive web applications. Collaborated closely with cross-functional teams, including product managers, designers, and engineers, to implement, ensure coding standards, and development best practices of DevOps.",
     technologies: [
       "Javascript",
       "Typescript",
@@ -36,12 +36,10 @@ export const experienceData = [
       "Redux",
       "Angular",
       "AWS",
-      "C#",
-      "HTML",
-      "SCSS",
+      "ASP.Net",
       "Tailwind CSS",
       "Node.js",
-      "GraphQL",
+      "NoSQL",
     ],
   },
   {
@@ -53,9 +51,6 @@ export const experienceData = [
     responsibility:
       "Collaborated with business analyst, developers, and marketing specialists, to create new and maintain brands, design systems, and styled interactive web apps for businesses in South Ontario.",
     technologies: [
-      "JavaScript",
-      "Typescript",
-      "React",
       "Figma",
       "Adobe",
       "Sketch",
@@ -77,14 +72,13 @@ export const experienceData = [
     technologies: [
       "Angular",
       "Material UI",
+      "HTML",
       "SCSS",
       "Javascript",
       "ES6",
-      "Java",
-      "C++",
-      "HTML",
       "NodeJS",
-      "Express"
+      "Express",
+      "Java",
     ],
   },
 ];

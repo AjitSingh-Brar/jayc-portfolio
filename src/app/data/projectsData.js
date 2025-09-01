@@ -64,10 +64,9 @@ export const projectsData = [
     technologies: [
       "Javascript",
       "Typescript",
-      "React",
-      "React Native",
-      "Redux",
-      "Express",
+      "Node.js",
+      "Shopify",
+      "GCP",
     ],
   },
 ];
