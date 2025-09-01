@@ -13,7 +13,7 @@ const HeroPage = () => {
       let scrollPosition = window.scrollY + 200; // Adjust based on your layout and design
 
       sections.forEach((section) => {
-        const top = section.offsetTop;
+        const top = section.offsetTop; 
         const height = section.offsetHeight;
 
         if (scrollPosition >= top && scrollPosition < top + height) {
