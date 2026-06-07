@@ -4,7 +4,7 @@ export const experienceData = [
     role: "Software Developer",
     company: "TELUS",
     companyLink: "https://www.telus.com/en",
-    timeline: "APR 2022 - Present",
+    timeline: "APR 2022 - May 2025",
     responsibility:
       "Handled multiple ongoing projects with new feature development, and developed responsive web applications. Collaborated closely with cross-functional teams, including product managers, designers, and engineers, to implement, ensure coding standards, and development best practices of DevOps.",
     technologies: [
