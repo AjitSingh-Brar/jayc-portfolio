@@ -70,7 +70,7 @@ const ExperienceSection = () => {
         </ol>
         <div className="mt-12">
           <Link
-            href="https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:cea71901-2665-40ad-acf0-cfbc5b813e5c"
+            href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1896ebb5-0c86-4f1e-b068-e12dbe9efb80"
             className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 group/link text-base duration-200 ease-in-out"
             target="_blank"
             rel="noreferrer noopener"
